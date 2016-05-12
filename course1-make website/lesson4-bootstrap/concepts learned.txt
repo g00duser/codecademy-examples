@@ -1,0 +1,24 @@
+Concepts learned
+
+Bootstrap - framework - consists of prewritten CSS rules
+
+HTML elements
+ -header
+ -footer
+ -section
+ 
+Link to a bootstrap
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+ 
+BOOTSTRAP GRID
+contains 12 equal-sized columns
+ 
+BOOTSTRAP CLASSES
+    .jumbotron - spans the entire width of the webpage
+    .container
+    .col-sm-6 - element takes up six grid columns (sm is for "small" designed for small screens)
+    .col-sm-3 - element takes up three grid columns
+    .row - arranges html elements in rows
+
+    .text-right - bootstrap classs used to orient text to the right side of the webpage
+    .btn btn-primary - bootstrap class used to style page element as buttons

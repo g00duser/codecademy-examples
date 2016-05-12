@@ -1,0 +1,14 @@
+Concepts learned:
+
+CSS - language used to style webpages
+
+CSS selectors - specifies exactly which html elements to style
+class selectors - used to target classes of html elements
+id selectors - used to style html element which has an id attribute
+
+CSS properties:
+
+font-family
+color
+font-size
+background-image

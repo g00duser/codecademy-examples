@@ -1,0 +1,12 @@
+html - hypertext markup language
+css - cascaing style sheets
+
+HTML elements
+
+h1-h6 - heading
+p - used for non-heading text
+a - short of anchor, used to add links to other webpages
+img - adds image to the website, self-closing.
+video
+ul, li - unordered list, list item
+div - used to organize html elements in different groups, which can be given a class attribute

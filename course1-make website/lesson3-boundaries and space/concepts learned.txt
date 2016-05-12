@@ -1,0 +1,38 @@
+Concepts learned:
+
+The Box Model:
+
+margin
+border
+padding
+content
+
+DISPLAY property
+Block vs. Inline Elements
+display: block; - displays each html element on a new row
+display: inline; - displays html elements next to each other
+
+POSITION property
+allows to position html elements in exact locations on a webpage
+
+position: relative;
+
+ex - moves element with container class 10px away from 
+the up and 20px away from the left side of the page.
+
+.container {
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+CSS skills
+
+border
+padding
+margin
+display
+ -inline - display value to align elements on the same line as neighboring elements
+ -flex - display value to align multiple page elements vertically or horizontally
+float - property used to float html elements right or left of neighboring elements 
+position
